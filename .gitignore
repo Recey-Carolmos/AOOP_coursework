@@ -1,0 +1,16 @@
+# Compiled output
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+
+# macOS / Windows junk
+.DS_Store
+Thumbs.db
